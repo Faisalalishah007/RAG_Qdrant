@@ -1,5 +1,79 @@
-# Ignore all log files
-*.log
+# Compiled source code
+*.class
+*.o
+*.so
 
-# Ignore the logs directory
-logs/
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# Dependency directories
+node_modules/
+vendor/
+Pods/
+
+# Runtime files
+*.log
+*.pid
+*.lock
+
+# Environment files
+.env
+.env.*
+
+# IDE/editor configurations
+.vscode/
+.idea/
+.project
+.classpath
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+.mypy_cache/
+
+
+# Node.js files
+*.log
+npm-debug.log
+yarn-error.log
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# Coverage reports
+coverage/
+*.cover
+.tox/
+.nox/
+.coverage
+
+# Deployment files
+*.pem
+*.key
+*.crt
+
+# folders 
+/collection
+/local_qdrant
+
+# requirements file
+required_text.txt

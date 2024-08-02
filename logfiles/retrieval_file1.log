@@ -1,0 +1,23 @@
+2024-08-01 17:32:51.119 | INFO     | __main__:<module>:27 - Starting similarity search for query: Effects of climate change on temperature?
+2024-08-01 17:32:51.136 | INFO     | __main__:<module>:33 - Similarity search completed. Number of documents found: 4
+2024-08-01 17:32:51.136 | INFO     | __main__:<module>:36 - Type of 'found_docs': <class 'list'>
+2024-08-01 17:32:51.137 | INFO     | __main__:<module>:37 - Length of 'found_docs': 4
+2024-08-01 17:32:51.137 | INFO     | __main__:<module>:42 - Top document content: Deforestation: Forests act as carbon sinks, absorbing CO₂ from the atmosphere. Deforestation, driven by agriculture, logging, and urban development, reduces the number of trees available to absorb CO₂, exacerbating the greenhouse effect.
+
+Industrial Processes: Many industrial activities release GHGs and other pollutants into the atmosphere. For example, cement production, chemical manufacturing, and waste management contribute to elevated GHG levels.
+
+Effects of Climate Change
+
+Global Warming: One of the most visible effects of climate change is the increase in global temperatures. Average global temperatures have risen significantly over the past century, leading to heatwaves, melting glaciers, and shifting climate patterns.
+
+Melting Ice Caps and Glaciers: Rising temperatures are causing polar ice caps and glaciers to melt at an accelerated rate. This contributes to rising sea levels, which threaten coastal communities and ecosystems.
+2024-08-01 17:32:51.137 | INFO     | __main__:<module>:43 - Cosine score of top document: 0.6160318192866527
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:92 - Starting keyword search for query: Effects of climate change on temperature?
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:98 - Keyword search completed. Number of documents found: 1
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:101 - Type of 'found_docs': <class 'list'>
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:102 - Length of 'found_docs': 1
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:107 - Top document index: 4
+2024-08-01 17:45:10.560 | INFO     | __main__:<module>:108 - Top document content: Effects of climate change on temperature can be significant.
+2024-08-01 17:49:38.104 | INFO     | __main__:<module>:54 - Starting keyword search for query: Effects of climate change on temperature?
+2024-08-01 17:56:20.737 | INFO     | __main__:<module>:53 - Starting keyword search for query: What did the president say about Ketanji Brown Jackson
+2024-08-01 17:58:40.687 | INFO     | __main__:<module>:53 - Starting keyword search for query: effect of climate change on temperature
