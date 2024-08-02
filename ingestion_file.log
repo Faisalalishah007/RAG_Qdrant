@@ -1,7 +1,0 @@
-2024-08-01 20:33:56.728 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
-2024-08-01 20:33:56.728 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
-2024-08-01 20:33:56.728 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
-2024-08-01 20:33:56.729 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
-2024-08-01 20:34:04.062 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
-2024-08-01 20:34:05.057 | INFO     | __main__:<module>:50 - Qdrant Vector Store initialized and documents indexed. Path: /home/dell/onboarding/local_qdrant
-2024-08-01 20:34:05.057 | INFO     | __main__:<module>:53 - Data ingestion completed successfully.

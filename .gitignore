@@ -76,4 +76,4 @@ coverage/
 /local_qdrant
 
 # requirements file
-required_text
+requirements.txt

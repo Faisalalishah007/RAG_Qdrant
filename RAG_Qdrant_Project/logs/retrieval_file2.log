@@ -1,0 +1,30 @@
+2024-08-02 12:46:14.444 | INFO     | __main__:<module>:16 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 12:46:14.700 | INFO     | __main__:<module>:27 - Qdrant Vector Store loaded from collection: my_documents
+2024-08-02 12:46:14.700 | INFO     | __main__:<module>:33 - Retriever initialized
+2024-08-02 12:46:14.700 | INFO     | __main__:<module>:39 - Retriever search type set to MMR
+2024-08-02 12:46:14.700 | INFO     | __main__:<module>:45 - Query defined: effects of climate change on temperature
+2024-08-02 12:46:14.727 | INFO     | __main__:<module>:51 - Query result: page_content='Deforestation: Forests act as carbon sinks, absorbing CO₂ from the atmosphere. Deforestation, driven by agriculture, logging, and urban development, reduces the number of trees available to absorb CO₂, exacerbating the greenhouse effect.
+
+Industrial Processes: Many industrial activities release GHGs and other pollutants into the atmosphere. For example, cement production, chemical manufacturing, and waste management contribute to elevated GHG levels.
+
+Effects of Climate Change
+
+Global Warming: One of the most visible effects of climate change is the increase in global temperatures. Average global temperatures have risen significantly over the past century, leading to heatwaves, melting glaciers, and shifting climate patterns.
+
+Melting Ice Caps and Glaciers: Rising temperatures are causing polar ice caps and glaciers to melt at an accelerated rate. This contributes to rising sea levels, which threaten coastal communities and ecosystems.' metadata={'source': '/home/dell//RAG_Qdrant_first_project/required_text.txt', '_id': '0f6861e7f61d445a9ea39592bac8d521', '_collection_name': 'my_documents'}
+2024-08-02 12:47:16.910 | INFO     | __main__:<module>:16 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 12:47:36.683 | INFO     | __main__:<module>:16 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 12:48:24.704 | INFO     | __main__:<module>:16 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 12:48:24.962 | INFO     | __main__:<module>:27 - Qdrant Vector Store loaded from collection: my_documents
+2024-08-02 12:48:24.962 | INFO     | __main__:<module>:33 - Retriever initialized
+2024-08-02 12:48:24.963 | INFO     | __main__:<module>:39 - Retriever search type set to MMR
+2024-08-02 12:48:24.963 | INFO     | __main__:<module>:45 - Query defined: effects of climate change on temperature
+2024-08-02 12:48:24.987 | INFO     | __main__:<module>:51 - Query result: page_content='Deforestation: Forests act as carbon sinks, absorbing CO₂ from the atmosphere. Deforestation, driven by agriculture, logging, and urban development, reduces the number of trees available to absorb CO₂, exacerbating the greenhouse effect.
+
+Industrial Processes: Many industrial activities release GHGs and other pollutants into the atmosphere. For example, cement production, chemical manufacturing, and waste management contribute to elevated GHG levels.
+
+Effects of Climate Change
+
+Global Warming: One of the most visible effects of climate change is the increase in global temperatures. Average global temperatures have risen significantly over the past century, leading to heatwaves, melting glaciers, and shifting climate patterns.
+
+Melting Ice Caps and Glaciers: Rising temperatures are causing polar ice caps and glaciers to melt at an accelerated rate. This contributes to rising sea levels, which threaten coastal communities and ecosystems.' metadata={'source': '/home/dell//RAG_Qdrant_first_project/required_text.txt', '_id': 'e776e86b6e534a18b90af1c7fa60fc85', '_collection_name': 'my_documents'}

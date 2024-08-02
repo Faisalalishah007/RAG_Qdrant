@@ -1,0 +1,12 @@
+2024-08-02 12:45:08.320 | INFO     | __main__:<module>:28 - Starting similarity search for query: what is crypto currency and block chain
+2024-08-02 12:45:08.336 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-02 12:45:08.336 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-02 12:45:08.336 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-02 12:48:43.691 | INFO     | __main__:<module>:28 - Starting similarity search for query: what is crypto currency and block chain
+2024-08-02 12:48:43.703 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-02 12:48:43.703 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-02 12:48:43.704 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-02 12:48:58.240 | INFO     | __main__:<module>:28 - Starting similarity search for query: what is crypto currency and block chain
+2024-08-02 12:48:58.251 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-02 12:48:58.251 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-02 12:48:58.251 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4

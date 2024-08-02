@@ -8,10 +8,10 @@ from langchain_qdrant import QdrantVectorStore, RetrievalMode
 from loguru import logger
 
 # Configure loguru to write logs to a file
-logger.add("ingestion_file.log", rotation="1 MB", retention="10 days", level="INFO")
+logger.add("logs/ingestion_file.log", rotation="1 MB", retention="10 days", level="INFO")
 
 # Load and split text documents
-loader = TextLoader("required_text.txt")
+loader = TextLoader("/home/dell//RAG_Qdrant_first_project/required_text.txt")
 
 # Log document loading start
 logger.info("Loading documents from 'required_text.txt'")
@@ -40,7 +40,7 @@ logger.info("Embedder initialized with model: all-MiniLM-L6-v2")
 qdrant = QdrantVectorStore.from_documents(
     docs,
     embedding=embedder,
-    path="/home/dell/onboarding/local_qdrant",
+    path="local_qdrant",
     collection_name="my_documents",
     retrieval_mode=RetrievalMode.DENSE,
 )

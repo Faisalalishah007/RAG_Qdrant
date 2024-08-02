@@ -7,7 +7,7 @@ from loguru import logger
 
 
 # Configure loguru to write logs to a file
-logger.add("retrieval_file2.log", rotation="1 MB", retention="10 days", level="INFO")
+logger.add("logs/retrieval_file2.log", rotation="1 MB", retention="10 days", level="INFO")
 
 # Initialize the embedder
 embedder = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -19,7 +19,7 @@ logger.info("Embedder initialized with model: all-MiniLM-L6-v2")
 qdrant = QdrantVectorStore.from_existing_collection(
     embedding=embedder,
     collection_name="my_documents",
-    path="/home/dell/onboarding/local_qdrant",
+    path="local_qdrant",
     retrieval_mode=RetrievalMode.DENSE,
 )
 
