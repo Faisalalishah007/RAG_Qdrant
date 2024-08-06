@@ -10,3 +10,58 @@
 2024-08-02 12:48:58.251 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
 2024-08-02 12:48:58.251 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
 2024-08-02 12:48:58.251 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-02 20:13:47.880 | INFO     | __main__:<module>:28 - Starting similarity search for query: what is crypto currency and block chain
+2024-08-02 20:13:47.888 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-02 20:13:47.888 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-02 20:13:47.888 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-02 20:15:02.019 | INFO     | __main__:<module>:28 - Starting similarity search for query: How does the International Space Station (ISS) contribute to scientific research and international cooperation in space?
+2024-08-02 20:15:02.027 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-02 20:15:02.028 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-02 20:15:02.028 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-05 12:07:15.056 | INFO     | __main__:<module>:28 - Starting similarity search for query: How does the International Space Station (ISS) contribute to scientific research and international cooperation in space?
+2024-08-05 12:07:15.073 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-05 12:07:15.073 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-05 12:07:15.073 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-05 12:07:15.074 | INFO     | __main__:<module>:43 - Top document content: 1. Historical Background
+Early Observations: Ancient civilizations like the Babylonians, Greeks, and Chinese made early observations of the night sky.
+Space Race: During the Cold War, the U.S. and the Soviet Union competed in space exploration. Key milestones included the launch of Sputnik by the Soviet Union in 1957 and the Apollo moon landings by NASA in the 1960s and 70s.
+2. Major Space Missions
+Apollo Program: NASA's series of missions that landed humans on the Moon between 1969 and 1972.
+Mars Rovers: Robotic missions like Curiosity and Perseverance have explored Mars' surface to search for signs of past life and assess its habitability.
+International Space Station (ISS): A collaborative project involving NASA, Roscosmos, ESA, JAXA, and CSA, the ISS serves as a microgravity laboratory for scientific research.
+3. Space Agencies
+NASA (National Aeronautics and Space Administration): The U.S. agency responsible for space exploration, scientific discovery, and aeronautics research.
+ESA (European Space Agency): An intergovernmental organization dedicated to space exploration and research in Europe.
+Roscosmos: Russia's space agency, known for its role in spaceflight and its contributions to the ISS.
+CNSA (China National Space Administration): China's space agency, responsible for its ambitious space exploration goals, including the Chang'e lunar missions and Tianwen Mars missions.
+4. Space Technologies
+Satellites: Used for communication, weather monitoring, and Earth observation.
+Space Telescopes: Instruments like the Hubble Space Telescope provide detailed images and data about distant celestial objects.
+Space Probes: Unmanned spacecraft like Voyager 1 and 2 that travel beyond the solar system to gather data.
+5. Current and Future Projects
+Artemis Program: NASA's initiative to return humans to the Moon and establish a sustainable presence by the 2020s, with the goal of eventually sending astronauts to Mars.
+Mars Colonization: Private companies like SpaceX are working towards establishing human settlements on Mars, aiming for long-term exploration and potential colonization.
+James Webb Space Telescope: Launched in 2021, it aims to study the universe's first galaxies, star formations, and planetary systems.
+6. Challenges and Considerations
+Cost: Space exploration requires significant financial investment for research, development, and mission execution.
+Technology: Developing reliable and advanced technology for space travel, life support, and communication is crucial.
+Human Factors: Addressing the effects of long-duration space travel on human health and well-being is essential for future missions.
+7. Ethical and Legal Issues
+Space Debris: The increasing amount of debris from past missions poses risks to current and future space operations.
+Planetary Protection: Preventing biological contamination of other planets and moons is a key concern to preserve extraterrestrial environments and avoid cross-contamination.
+Space exploration continues to push the boundaries of human knowledge and technology, offering exciting possibilities for the future of humanity in the cosmos.
+2024-08-05 12:07:15.074 | INFO     | __main__:<module>:44 - Cosine score of top document: 0.5158637262827742
+2024-08-05 12:08:21.133 | INFO     | __main__:<module>:28 - Starting similarity search for query: effects of climate change on world temperature
+2024-08-05 12:08:21.149 | INFO     | __main__:<module>:34 - Similarity search completed. Number of documents found: 4
+2024-08-05 12:08:21.150 | INFO     | __main__:<module>:37 - Type of 'found_docs': <class 'list'>
+2024-08-05 12:08:21.150 | INFO     | __main__:<module>:38 - Length of 'found_docs': 4
+2024-08-05 12:08:21.150 | INFO     | __main__:<module>:43 - Top document content: Deforestation: Forests act as carbon sinks, absorbing CO₂ from the atmosphere. Deforestation, driven by agriculture, logging, and urban development, reduces the number of trees available to absorb CO₂, exacerbating the greenhouse effect.
+
+Industrial Processes: Many industrial activities release GHGs and other pollutants into the atmosphere. For example, cement production, chemical manufacturing, and waste management contribute to elevated GHG levels.
+
+Effects of Climate Change
+
+Global Warming: One of the most visible effects of climate change is the increase in global temperatures. Average global temperatures have risen significantly over the past century, leading to heatwaves, melting glaciers, and shifting climate patterns.
+
+Melting Ice Caps and Glaciers: Rising temperatures are causing polar ice caps and glaciers to melt at an accelerated rate. This contributes to rising sea levels, which threaten coastal communities and ecosystems.
+2024-08-05 12:08:21.152 | INFO     | __main__:<module>:44 - Cosine score of top document: 0.6216192897472319

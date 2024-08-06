@@ -12,3 +12,130 @@
 2024-08-02 12:48:10.369 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
 2024-08-02 12:48:11.044 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path: /home/dell/onboarding/local_qdrant
 2024-08-02 12:48:11.044 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-02 20:08:01.660 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-02 20:08:26.282 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-02 20:08:26.282 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-02 20:08:26.283 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-02 20:08:26.283 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-02 20:08:32.141 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 20:08:32.922 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-02 20:08:32.922 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-02 20:08:48.237 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-02 20:08:48.237 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-02 20:08:48.237 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-02 20:08:48.238 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-02 20:08:54.157 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 20:08:54.874 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-02 20:08:54.875 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-02 20:13:01.376 | INFO     | __main__:<module>:17 - /home/dell/RAG_Qdrant_first_project/RAG_NewDoc_project/new_textfile.txt
+2024-08-02 20:13:01.377 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-02 20:13:01.377 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-02 20:13:01.377 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-02 20:13:08.927 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 20:13:09.983 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-02 20:13:09.983 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-02 20:43:53.661 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-02 20:43:53.661 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-02 20:43:53.662 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-02 20:43:53.662 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-02 20:44:03.102 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 20:44:03.901 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-02 20:44:03.902 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-02 20:44:36.988 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-02 20:44:36.989 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-02 20:44:36.989 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-02 20:44:36.989 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 10
+2024-08-02 20:44:45.394 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-02 20:44:46.010 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-02 20:44:46.010 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-05 11:47:37.812 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-05 11:47:37.813 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-05 11:47:37.813 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-05 11:47:37.813 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 11:47:43.970 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 11:47:44.769 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-05 11:47:44.769 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-05 11:53:08.679 | INFO     | __main__:<module>:17 - Loading documents from 'new_textfile.txt'
+2024-08-05 11:53:08.679 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-05 11:53:08.680 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-05 11:53:08.680 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 10
+2024-08-05 11:53:15.328 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 11:53:15.910 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-05 11:53:15.910 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-05 11:56:12.020 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-05 11:56:12.020 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-05 11:56:12.021 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-05 11:56:12.021 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 11:56:18.523 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 11:56:19.319 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-05 11:56:19.320 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-05 19:50:26.241 | INFO     | __main__:<module>:17 - Loading documents from 'required_text.txt'
+2024-08-05 19:50:26.241 | INFO     | __main__:<module>:21 - Documents loaded. Type: <class 'list'>
+2024-08-05 19:50:26.241 | INFO     | __main__:<module>:22 - Number of documents loaded: 1
+2024-08-05 19:50:26.242 | INFO     | __main__:<module>:29 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 19:50:33.855 | INFO     | __main__:<module>:35 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 19:50:34.630 | INFO     | __main__:<module>:49 - Qdrant Vector Store initialized and documents indexed. Path:local_qdrant
+2024-08-05 19:50:34.630 | INFO     | __main__:<module>:52 - Data ingestion completed successfully.
+2024-08-05 19:55:33.222 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 19:55:33.223 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 19:55:33.223 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 19:55:33.224 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 19:55:40.647 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 19:57:21.699 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 19:57:21.699 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 19:57:21.699 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 19:57:21.700 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 19:57:29.595 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 19:57:52.252 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 19:57:52.252 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 19:57:52.297 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 19:57:52.299 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 19:57:59.799 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:01:48.207 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 20:01:48.207 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:01:48.208 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 20:01:48.208 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:01:56.393 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:02:53.710 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 20:02:53.710 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:02:53.710 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 20:02:53.711 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:03:01.056 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:03:29.032 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 20:03:29.032 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:03:29.033 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 20:03:29.033 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:03:36.485 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:25:32.025 | INFO     | __main__:<module>:72 - Loading documents from 'required_text.txt'
+2024-08-05 20:25:32.025 | INFO     | __main__:<module>:76 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:25:32.026 | INFO     | __main__:<module>:77 - Number of documents loaded: 1
+2024-08-05 20:25:32.026 | INFO     | __main__:<module>:84 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:25:39.804 | INFO     | __main__:<module>:90 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:25:40.559 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.560 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.560 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.560 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.560 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.561 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.561 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.561 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.561 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.562 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:40.563 | WARNING  | __main__:is_document_exists:105 - Document text is None. Skipping check.
+2024-08-05 20:25:41.095 | INFO     | __main__:<module>:124 - Qdrant Vector Store updated with new documents.
+2024-08-05 20:25:41.095 | INFO     | __main__:<module>:127 - Data ingestion completed successfully.
+2024-08-05 20:37:01.645 | INFO     | __main__:<module>:71 - Loading documents from 'required_text.txt'
+2024-08-05 20:37:01.645 | INFO     | __main__:<module>:75 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:37:01.646 | INFO     | __main__:<module>:76 - Number of documents loaded: 1
+2024-08-05 20:37:01.646 | INFO     | __main__:<module>:87 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:37:08.947 | INFO     | __main__:<module>:93 - Embedder initialized with model: all-MiniLM-L6-v2
+2024-08-05 20:37:45.466 | INFO     | __main__:<module>:71 - Loading documents from 'required_text.txt'
+2024-08-05 20:37:45.466 | INFO     | __main__:<module>:75 - Documents loaded. Type: <class 'list'>
+2024-08-05 20:37:45.466 | INFO     | __main__:<module>:76 - Number of documents loaded: 1
+2024-08-05 20:37:45.467 | INFO     | __main__:<module>:87 - Documents split into chunks. Number of chunks created: 16
+2024-08-05 20:37:53.277 | INFO     | __main__:<module>:93 - Embedder initialized with model: all-MiniLM-L6-v2

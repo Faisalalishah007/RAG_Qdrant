@@ -19,7 +19,7 @@ logger.info("Embedder initialized with model: all-MiniLM-L6-v2")
 qdrant = QdrantVectorStore.from_existing_collection(
     embedding=embedder,
     collection_name="my_documents",
-    path="local_qdrant",
+    path="/home/dell/RAG_Qdrant_first_project/RAG_Qdrant_Project",
     retrieval_mode=RetrievalMode.DENSE,
 )
 

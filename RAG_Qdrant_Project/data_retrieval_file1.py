@@ -17,12 +17,12 @@ embedder = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 qdrant = QdrantVectorStore.from_existing_collection(
     embedding=embedder,
     collection_name="my_documents",
-    path="local_qdrant",
+    path="/home/dell/RAG_Qdrant_first_project/RAG_Qdrant_Project",
     retrieval_mode=RetrievalMode.DENSE,
 )
 
 # Define the query
-query = "what is crypto currency and block chain"
+query = "effects of climate change on world temperature"
 
 # Logging the start of the search
 logger.info("Starting similarity search for query: {}", query)
@@ -38,10 +38,10 @@ logger.info("Type of 'found_docs': {}", type(found_docs))
 logger.info("Length of 'found_docs': {}", len(found_docs))
 
 # Print the content and score of the first found document
-# if found_docs:
-#     document, score = found_docs[0]
-#     logger.info("Top document content: {}", document.page_content)
-#     logger.info("Cosine score of top document: {}", score)
-# else:
-#     logger.warning("No documents found.")
-print(found_docs[0][0])
+if found_docs:
+    document, score = found_docs[0]
+    logger.info("Top document content: {}", document.page_content)
+    logger.info("Cosine score of top document: {}", score)
+else:
+    logger.warning("No documents found.")
+
